@@ -11,7 +11,7 @@ class Config:
     BOT_TOKEN = '1409506404:AAEu3nef2XJnt4vwNOQ6Z5JH8FfOy2tQpzI' # Get it from https://t.me/BotFather
     APP_ID = '2484835' # Get it from my.telegram.org/apps
     API_HASH = '1b070f95f6f13344c7d9b1c7d8222790' # Get it from my.telegram.org/apps
-    DATABASE_URL = 'postgres://jrjnlzouinwexa:96bdd2b4ec597d666fd80edc7e8cafec8cd19d532b8b2aae505efe7e47b6ffed@ec2-18-206-103-49.compute-1.amazonaws.com:5432/deo94jaur1mhq0' # SQL Database URL / Heroku Postgres URL
+    DATABASE_URL = 'postgres://wvgraqzolmtrbj:a371e58d754cafb9aaccc59751d15f2925dc6ee40c9f4bc39fe5daeedcdeb539@ec2-3-218-123-191.compute-1.amazonaws.com:5432/d6kfvovfqt48oh' # SQL Database URL / Heroku Postgres URL
 
 
 class Messages:
