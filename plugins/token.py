@@ -70,7 +70,7 @@ async def _set_parent(client, message):
 async def _token(client, message):
   token = message.text.split()[-1]
   WORD = len(token)
-  if WORD == 57 and token[1] == "/":
+  if WORD == 62 and token[1] == "/":
     creds = None
     global flow
     if flow is None:
